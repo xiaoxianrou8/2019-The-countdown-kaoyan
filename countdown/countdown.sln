@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "countdown", "countdown\countdown.csproj", "{54EAAE75-8AF5-415D-AC42-E832A667462B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "考研倒计时", "考研倒计时\考研倒计时.vdproj", "{7499B145-011C-4DB0-9751-0D6AB1855C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54EAAE75-8AF5-415D-AC42-E832A667462B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EAAE75-8AF5-415D-AC42-E832A667462B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EAAE75-8AF5-415D-AC42-E832A667462B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EAAE75-8AF5-415D-AC42-E832A667462B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7499B145-011C-4DB0-9751-0D6AB1855C3B}.Debug|Any CPU.ActiveCfg = Debug
+		{7499B145-011C-4DB0-9751-0D6AB1855C3B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CBE978-D1D4-497E-B270-5409BCE97638}
+	EndGlobalSection
+EndGlobal
